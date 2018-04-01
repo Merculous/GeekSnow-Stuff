@@ -10,3 +10,5 @@ For Beehind, you can import bundles/plists for a specfic device as long as its s
 And speaking of kloader, you can update kloader updated by axi0mX here: https://github.com/axi0mX/ios-kexec-utils
 
 If you installed the mac version and you find in your home folder with the name of geeksn0w the resources.zip or just have all of the files it extracts, please make a pull request so we can have a working geeksn0w for mac.
+
+Also, this guy has some of the original GeekGrade ipsw's: https://idevicearchive.wordpress.com/geekgrade/
